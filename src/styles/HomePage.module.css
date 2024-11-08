@@ -1,0 +1,16 @@
+/* src/styles/HomePage.module.css */
+.homeContainer {
+    padding: 20px;
+  }
+  
+  .title {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .earthquakeList {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
